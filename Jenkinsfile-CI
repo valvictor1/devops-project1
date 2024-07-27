@@ -8,7 +8,7 @@ pipeline {
     agent any
     // DECLARE THE VARIABLES HERE:
     environment {
-        DOCKER_USERNAME = "ValVictor"     // check the 'ID' in your Jenkins credentials
+        DOCKER_USERNAME = "valvic"     // check the 'ID' in your Jenkins credentials
     }
 
     stages {
